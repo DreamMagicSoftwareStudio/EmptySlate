@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340261203108",
+    "project_id": "emptyslate-69a1c",
+    "storage_bucket": "emptyslate-69a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340261203108:android:c9db696f243c4ce6f24a31",
+        "android_client_info": {
+          "package_name": "com.dream_magic.emptyslate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8BOEvYjpAPL0vYz8kYOEAlc4qYpdqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

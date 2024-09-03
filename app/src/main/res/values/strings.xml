@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EmptySlate</string>
     <string name="app_title">Empty Slate</string>
+    <string name="google_client_id">800562318338-1b366jm008nq0q57dphtvef38dj6mjdg.apps.googleusercontent.com</string>
 </resources>
