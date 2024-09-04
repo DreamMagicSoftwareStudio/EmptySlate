@@ -12,7 +12,12 @@
           "package_name": "com.dream_magic.emptyslate"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "340261203108-6qnctsoc2g8cn9uiqp010bv3hkna7g0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCad8BOEvYjpAPL0vYz8kYOEAlc4qYpdqs"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340261203108-6qnctsoc2g8cn9uiqp010bv3hkna7g0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

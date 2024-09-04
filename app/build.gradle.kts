@@ -4,7 +4,7 @@ plugins {
     id("com.google.gms.google-services")
 }
 
-android {
+android {`
     namespace = "com.dream_magic.emptyslate"
     compileSdk = 35
 
@@ -77,10 +77,12 @@ dependencies {
 
     implementation("androidx.credentials:credentials:1.5.0-alpha04")
 
-    // optional - needed for credentials support from play services, for devices running
-    // Android 13 and below.
+
     implementation("androidx.credentials:credentials-play-services-auth:1.5.0-alpha04")
 
     implementation("com.google.android.gms:play-services-auth:21.2.0@aar'")
+
+
+
 
 }
